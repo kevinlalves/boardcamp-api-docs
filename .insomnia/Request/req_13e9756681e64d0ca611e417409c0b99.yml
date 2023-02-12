@@ -1,0 +1,21 @@
+_id: req_13e9756681e64d0ca611e417409c0b99
+type: Request
+parentId: fld_edc24b7b319243cd85a612ded457736c
+modified: 1676216881152
+created: 1676216828518
+url: "{{ _.host }}/rentals/6"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676216828518
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

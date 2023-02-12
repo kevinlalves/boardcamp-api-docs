@@ -1,0 +1,21 @@
+_id: req_b480f4037eae48d98527d7ca25892211
+type: Request
+parentId: fld_d1f6efdab99743a9a21d8964a000b987
+modified: 1676162854834
+created: 1676127673188
+url: "{{ _.host }}/customers/100"
+name: show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676127673188
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

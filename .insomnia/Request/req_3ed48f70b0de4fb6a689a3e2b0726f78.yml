@@ -1,0 +1,21 @@
+_id: req_3ed48f70b0de4fb6a689a3e2b0726f78
+type: Request
+parentId: fld_edc24b7b319243cd85a612ded457736c
+modified: 1676173917736
+created: 1676171014878
+url: "{{ _.host }}/rentals?order=gameId&desc=true"
+name: index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676171014878
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

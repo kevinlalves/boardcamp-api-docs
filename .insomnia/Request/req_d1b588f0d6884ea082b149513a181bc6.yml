@@ -1,0 +1,31 @@
+_id: req_d1b588f0d6884ea082b149513a181bc6
+type: Request
+parentId: fld_d1f6efdab99743a9a21d8964a000b987
+modified: 1676162846438
+created: 1676083302311
+url: "{{ _.host }}/customers"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "name": "Joao pimpolho",
+    "phone": "11966655553",
+    "cpf": "88991123122",
+    "birthday": "1997-12-31"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676083302311
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

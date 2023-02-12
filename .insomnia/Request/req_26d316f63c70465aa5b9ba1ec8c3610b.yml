@@ -1,0 +1,30 @@
+_id: req_26d316f63c70465aa5b9ba1ec8c3610b
+type: Request
+parentId: fld_edc24b7b319243cd85a612ded457736c
+modified: 1676207969778
+created: 1676158132352
+url: "{{ _.host }}/rentals"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"customerId": 5,
+    	"gameId": 9,
+    	"daysRented": 30
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676158132352
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

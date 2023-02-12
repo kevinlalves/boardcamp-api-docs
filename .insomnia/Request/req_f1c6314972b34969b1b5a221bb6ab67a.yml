@@ -1,0 +1,21 @@
+_id: req_f1c6314972b34969b1b5a221bb6ab67a
+type: Request
+parentId: fld_edc24b7b319243cd85a612ded457736c
+modified: 1676216808935
+created: 1676216665456
+url: "{{ _.host }}/7/return"
+name: return
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676216665456
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

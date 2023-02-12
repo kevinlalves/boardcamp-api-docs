@@ -1,0 +1,29 @@
+_id: req_d2b23baad06f4d958aaee278983b3ced
+type: Request
+parentId: fld_d1f6efdab99743a9a21d8964a000b987
+modified: 1676162860762
+created: 1676138628622
+url: "{{ _.host }}/customers/1"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"cpf": "85438914001",
+    	"birthday": "1997-05-28"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676138628622
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

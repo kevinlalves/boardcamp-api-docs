@@ -1,0 +1,21 @@
+_id: req_3dc8f470a27b4ac685290d3f5f3bd8ef
+type: Request
+parentId: fld_81bc0492d2c549dcabd73f033ac5b57a
+modified: 1676151769731
+created: 1676145545870
+url: "{{ _.host }}/games?"
+name: index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676145545870
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

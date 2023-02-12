@@ -1,0 +1,31 @@
+_id: req_58210b8a7000456bacfe021429784a28
+type: Request
+parentId: fld_81bc0492d2c549dcabd73f033ac5b57a
+modified: 1676154073463
+created: 1676083297079
+url: "{{ _.host }}/games"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >
+    {
+    	"name": "Animating",
+    	"image": "https://www.google.com/search?q=risk&rlz=1C1GCEA_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiV7JLX9M_iAhXOyDgGHQzlAQQ_AUIEigB&biw=1366&bih=657#imgrc=_",
+    	"stockTotal": 0,
+    	"pricePerDay": 233
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676083297079
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
